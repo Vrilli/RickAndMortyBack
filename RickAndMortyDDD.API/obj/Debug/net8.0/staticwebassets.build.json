@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x2paEZiM5NNZsHUs98VJfYRZQTCqRLMjNRwgrSB73Mk=",
+  "Source": "RickAndMortyDDD.API",
+  "BasePath": "_content/RickAndMortyDDD.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

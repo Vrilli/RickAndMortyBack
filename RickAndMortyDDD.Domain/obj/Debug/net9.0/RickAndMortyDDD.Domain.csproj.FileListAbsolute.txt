@@ -1,0 +1,11 @@
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\bin\Debug\net9.0\RickAndMortyDDD.Domain.deps.json
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\bin\Debug\net9.0\RickAndMortyDDD.Domain.dll
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\bin\Debug\net9.0\RickAndMortyDDD.Domain.pdb
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.dll
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\refint\RickAndMortyDDD.Domain.dll
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\RickAndMortyDDD.Domain.pdb
+C:\Users\user\Documents\PruebasTecnicas\2025\CMCONSULTORES\RickAndMortyBack\RickAndMortyDDD.Domain\obj\Debug\net9.0\ref\RickAndMortyDDD.Domain.dll

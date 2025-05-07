@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RickAndMortyDDD.Infrastructure/1.0.0": {
+        "dependencies": {
+          "RickAndMortyDDD.Application": "1.0.0"
+        },
+        "runtime": {
+          "RickAndMortyDDD.Infrastructure.dll": {}
+        }
+      },
+      "RickAndMortyDDD.Application/1.0.0": {
+        "dependencies": {
+          "RickAndMortyDDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RickAndMortyDDD.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RickAndMortyDDD.Domain/1.0.0": {
+        "runtime": {
+          "RickAndMortyDDD.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RickAndMortyDDD.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RickAndMortyDDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RickAndMortyDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
